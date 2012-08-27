@@ -17,6 +17,6 @@ Gem::Specification.new do |gem|
 
   gem.add_development_dependency "rspec"
   
-  gem.add_dependency "activeuuid"
-  gem.add_dependency "uuid_helper"
+  gem.add_runtime_dependency "activeuuid"
+  gem.add_runtime_dependency "uuid_helper"
 end

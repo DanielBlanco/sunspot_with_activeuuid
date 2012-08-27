@@ -519,22 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "sunspot_with_activeuuid.gemspec",
-			"settings":
-			{
-				"buffer_size": 887,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lib/sunspot_with_activeuuid/version.rb",
-			"settings":
-			{
-				"buffer_size": 53,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -560,6 +544,12 @@
 	},
 	"file_history":
 	[
+		"/home/daniel/Projects/sunspot_with_activeuuid/lib/sunspot_with_activeuuid.rb",
+		"/home/daniel/Projects/sunspot_with_activeuuid/lib/sunspot_with_activeuuid/rails.rb",
+		"/home/daniel/Projects/sunspot_with_activeuuid/lib/sunspot_with_activeuuid/version.rb",
+		"/home/daniel/Projects/sunspot_with_activeuuid/Rakefile",
+		"/home/daniel/Projects/sunspot_with_activeuuid/sunspot_with_activeuuid.gemspec",
+		"/home/daniel/Projects/sunspot_with_activeuuid/README.md",
 		"/home/daniel/Projects/xGenyz/Gemfile",
 		"/home/daniel/Projects/xGenyz/log/sunspot-solr-development.log",
 		"/home/daniel/Projects/xGenyz/app/controllers/search_controller.rb",
@@ -681,13 +671,7 @@
 		"/home/daniel/Projects/xGenyz/app/assets/stylesheets/themes/default/partials/_mixins.css.scss",
 		"/home/daniel/Projects/xGenyz/app/views/layouts/_header.html.haml",
 		"/home/daniel/Projects/xGenyz/app/assets/javascripts/models/comment.js.coffee",
-		"/home/daniel/Projects/xGenyz/app/assets/templates/stream/comments.jst.hamlc",
-		"/home/daniel/Projects/xGenyz/app/assets/javascripts/views/assessments/index.js.coffee",
-		"/home/daniel/Projects/xGenyz/app/assets/templates/assessments/index_performance.jst.hamlc",
-		"/home/daniel/Projects/xGenyz/app/assets/templates/assessments/index_personal.jst.hamlc",
-		"/home/daniel/Projects/xGenyz/app/assets/templates/assessments/index_soft_skills.jst.hamlc",
-		"/home/daniel/Projects/xGenyz/app/assets/javascripts/routers/assessments.js.coffee",
-		"/home/daniel/Projects/xGenyz/app/assets/templates/assessments/index.jst.hamlc"
+		"/home/daniel/Projects/xGenyz/app/assets/templates/stream/comments.jst.hamlc"
 	],
 	"find":
 	{
@@ -786,61 +770,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "sunspot_with_activeuuid.gemspec",
-					"settings":
-					{
-						"buffer_size": 887,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								797,
-								797
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "lib/sunspot_with_activeuuid/version.rb",
-					"settings":
-					{
-						"buffer_size": 53,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								53,
-								53
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
