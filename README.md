@@ -1,6 +1,7 @@
 # SunspotWithActiveuuid
 
-TODO: Write a gem description
+Extends sunspot to be compatible with activeuuid. Activeuuid gem uses UUID objects
+as primary keys for models, what this gem does is making sure that sunspot is aware of it.
 
 ## Installation
 
@@ -15,10 +16,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install sunspot_with_activeuuid
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
